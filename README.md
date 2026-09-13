@@ -2,42 +2,73 @@
 
 Backend engineer building services in Go. Currently designing and building the backend for a corporate MT program's tracking system.
 
-*Backend engineer yang membangun layanan dengan Go. Saat ini merancang dan membangun backend untuk sistem tracking program MT sebuah perusahaan.*
-
-## Currently
+## About
 
 ![About: Backend engineer, Go. Focus: MT program backend at a national bank. Production: Go, Gin, GORM, MySQL, Redis, MinIO. Exploring: AI integrations, Kafka. Learning: Go (advanced), Next.js.](./about-me.svg)
 
-*Backend engineer, Go — fokus: backend program MT di sebuah bank nasional. Produksi: Go, Gin, GORM, MySQL, Redis, MinIO. Sedang dieksplorasi: integrasi AI, Kafka. Sedang dipelajari: Go (advanced), Next.js.*
-
-- Building the backend for a corporate management-trainee program — private repo, not published
-- Working through `Dompetku`, a personal finance-tracking project, alongside Go study
-
-*Membangun backend untuk program management-trainee sebuah perusahaan — repo privat, tidak dipublikasikan. Mengerjakan `Dompetku`, proyek pencatatan keuangan pribadi, sambil terus belajar Go.*
+## GitHub stats
+<picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=elzidanecodes&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=elzidanecodes&theme=light_github" alt="Anurag's GitHub stats" />
+ </picture>
+<picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=elzidanecodes&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=elzidanecodes&langs_count=4&theme=light_github" alt="Top Langs" />
+</picture>
 
 ## Tech
 
-**Personal projects:** Go, PHP, JavaScript, React, Python
+![Tech stack: Production — Go, Gin, GORM, MySQL, Redis, MinIO. Exploring — AI integrations, Kafka. Learning — Go (advanced), Next.js.](./tech-stack-minimal.svg)
 
-*Proyek pribadi: Go, PHP, JavaScript, React, Python*
+<!-- TODO: konfirmasi — count_private aktif berarti aktivitas repo privat (termasuk bflp) ikut terhitung di statistik publik ini. -->
 
-## GitHub stats
-
-![elzidanecodes GitHub stats](https://github-readme-stats.vercel.app/api?username=elzidanecodes&show_icons=true&theme=radical)
-
-<!-- TODO: konfirmasi — count_private aktif berarti aktivitas repo privat (termasuk bflp) ikut terhitung di statistik publik ini. Keputusan sudah dikonfirmasi ke Claude, dicatat di sini supaya sadar saat commit. -->
+<!-- Catatan: github-readme-stats (anuraghazra) sudah unmaintained; endpoint publik bisa down/rate-limited sewaktu-waktu. Kalau kartu tidak muncul, bukan salah konfigurasi. Opsi lebih stabil: self-host, fork "GitHub Stats Extended", atau GitHub Actions workflow (SVG statis). -->
 
 ## Selected work
 
-**[Task-Management](https://github.com/elzidanecodes/Task-Management)** — A Go service built without a framework: in-memory event bus, a configurable goroutine worker pool, retry with exponential backoff and a dead-letter handler, graceful shutdown, and a layered handler → service → repository architecture.
-
-**bflp-architecture-notes** *(coming soon)* — Architecture write-up for a production backend I designed and built for a corporate MT program: session design, bulk-import pipeline, and layering decisions. Code and program data are not published.
-
-**[Dompetku](https://github.com/elzidanecodes/Dompetku)** *(in progress)* — A personal finance tracker in Go + Gin, currently the focus of a Go fundamentals sprint.
-
-**[Blockchain-Certificate-Verification](https://github.com/elzidanecodes/Blockchain-Certificate-Verification)** — A certificate-verification system combining a Python backend with a React frontend.
-
-*Kerja terpilih: **Task-Management** — layanan Go tanpa framework dengan event bus in-memory, worker pool goroutine, retry dengan backoff eksponensial, graceful shutdown, dan arsitektur berlapis. **bflp-architecture-notes** *(segera)* — tulisan arsitektur untuk backend produksi program MT perusahaan; kode dan data program tidak dipublikasikan. **Dompetku** *(sedang berjalan)* — pelacak keuangan pribadi dengan Go + Gin. **Blockchain-Certificate-Verification** — sistem verifikasi sertifikat dengan backend Python dan frontend React.*
+  <a href="[https://github.com/elzidanecodes/Task-Management]">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=elzidanecodes&repo=Task-Management&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=elzidanecodes&repo=Task-Management&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
+  </a>
+    <a href="[https://github.com/elzidanecodes/DOMPETKU]">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=elzidanecodes&repo=DOMPETKU&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=elzidanecodes&repo=DOMPETKU&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
+  </a>
+  <a href="[https://github.com/elzidanecodes/Blockchain-Certificate-Verification]">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=elzidanecodes&repo=Blockchain-Certificate-Verification&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=elzidanecodes&repo=Blockchain-Certificate-Verification&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
+  </a>
+  <a href="[https://github.com/elzidanecodes/HKI-APP]">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=elzidanecodes&repo=HKI-APP&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=elzidanecodes&repo=HKI-APP&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
+  </a>
+  
 
 ## Contact
 Email: laitazidane@gmail.com
