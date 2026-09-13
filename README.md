@@ -23,7 +23,7 @@ Backend engineer building services in Go. Currently designing and building the b
 
 ## GitHub stats
 
-![elzidanecodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=elzidanecodes&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![elzidanecodes GitHub stats](https://github-readme-stats.vercel.app/api?username=elzidanecodes&show_icons=true&theme=radical)
 
 <!-- TODO: konfirmasi — count_private aktif berarti aktivitas repo privat (termasuk bflp) ikut terhitung di statistik publik ini. Keputusan sudah dikonfirmasi ke Claude, dicatat di sini supaya sadar saat commit. -->
 
