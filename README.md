@@ -7,13 +7,13 @@ Backend engineer building services in Go. Currently designing and building the b
 ![About: Backend engineer, Go. Focus: MT program backend at a national bank. Production: Go, Gin, GORM, MySQL, Redis, MinIO. Exploring: AI integrations, Kafka. Learning: Go (advanced), Next.js.](./about-me.svg)
 
 ## GitHub stats
-<picture>
+<!-- <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api?username=elzidanecodes&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-stats-extended.vercel.app/api?username=elzidanecodes&theme=light_github" alt="Anurag's GitHub stats" />
- </picture>
+ </picture> -->
 <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=elzidanecodes&langs_count=4&theme=dark_github"
